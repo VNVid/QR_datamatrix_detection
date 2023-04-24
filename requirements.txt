@@ -1,0 +1,5 @@
+matplotlib==3.7.1
+opencv-python
+pytorch_lightning==2.0.1
+torch==2.0.0
+torchvision==0.15.1
