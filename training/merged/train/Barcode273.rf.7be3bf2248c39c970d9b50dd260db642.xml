@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Barcode273.rf.7be3bf2248c39c970d9b50dd260db642.jpg</filename>
+	<path>Barcode273.rf.7be3bf2248c39c970d9b50dd260db642.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>datamatrix</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>524</xmin>
+			<xmax>612</xmax>
+			<ymin>146</ymin>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

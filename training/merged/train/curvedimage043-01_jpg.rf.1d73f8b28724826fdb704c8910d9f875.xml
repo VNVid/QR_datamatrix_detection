@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>curvedimage043-01_jpg.rf.1d73f8b28724826fdb704c8910d9f875.jpg</filename>
+	<path>curvedimage043-01_jpg.rf.1d73f8b28724826fdb704c8910d9f875.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>953</width>
+		<height>828</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qrcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>118</xmin>
+			<xmax>922</xmax>
+			<ymin>27</ymin>
+			<ymax>825</ymax>
+		</bndbox>
+	</object>
+</annotation>

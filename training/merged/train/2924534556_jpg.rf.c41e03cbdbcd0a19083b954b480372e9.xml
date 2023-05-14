@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2924534556_jpg.rf.c41e03cbdbcd0a19083b954b480372e9.jpg</filename>
+	<path>2924534556_jpg.rf.c41e03cbdbcd0a19083b954b480372e9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qrcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>79</xmin>
+			<xmax>177</xmax>
+			<ymin>26</ymin>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

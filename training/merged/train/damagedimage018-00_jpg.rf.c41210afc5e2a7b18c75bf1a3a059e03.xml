@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>damagedimage018-00_jpg.rf.c41210afc5e2a7b18c75bf1a3a059e03.jpg</filename>
+	<path>damagedimage018-00_jpg.rf.c41210afc5e2a7b18c75bf1a3a059e03.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>731</width>
+		<height>780</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qrcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>53</xmin>
+			<xmax>691</xmax>
+			<ymin>38</ymin>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>

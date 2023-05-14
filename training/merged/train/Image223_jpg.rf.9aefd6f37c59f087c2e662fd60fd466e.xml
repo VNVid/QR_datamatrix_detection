@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Image223_jpg.rf.9aefd6f37c59f087c2e662fd60fd466e.jpg</filename>
+	<path>Image223_jpg.rf.9aefd6f37c59f087c2e662fd60fd466e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>datamatrix</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>395</xmin>
+			<xmax>540</xmax>
+			<ymin>303</ymin>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20210615_095124_563_New-sensor_Demo_01_PASS_jpg.rf.ae70040e34f1dcc3597208b59f28e2cc.jpg</filename>
+	<path>20210615_095124_563_New-sensor_Demo_01_PASS_jpg.rf.ae70040e34f1dcc3597208b59f28e2cc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>datamatrix</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>218</xmin>
+			<xmax>406</xmax>
+			<ymin>289</ymin>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

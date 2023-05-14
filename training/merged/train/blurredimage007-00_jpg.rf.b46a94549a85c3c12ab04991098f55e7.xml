@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>blurredimage007-00_jpg.rf.b46a94549a85c3c12ab04991098f55e7.jpg</filename>
+	<path>blurredimage007-00_jpg.rf.b46a94549a85c3c12ab04991098f55e7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qrcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>176</xmax>
+			<ymin>8</ymin>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

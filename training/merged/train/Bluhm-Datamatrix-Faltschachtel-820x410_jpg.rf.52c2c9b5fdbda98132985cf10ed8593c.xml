@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Bluhm-Datamatrix-Faltschachtel-820x410_jpg.rf.52c2c9b5fdbda98132985cf10ed8593c.jpg</filename>
+	<path>Bluhm-Datamatrix-Faltschachtel-820x410_jpg.rf.52c2c9b5fdbda98132985cf10ed8593c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>datamatrix</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>411</xmax>
+			<ymin>147</ymin>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

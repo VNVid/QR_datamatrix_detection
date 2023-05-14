@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>glareimage009-00_jpg.rf.67d2eecb80dcf06d7b97eea66a403e4e.jpg</filename>
+	<path>glareimage009-00_jpg.rf.67d2eecb80dcf06d7b97eea66a403e4e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>695</width>
+		<height>762</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qrcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>37</xmin>
+			<xmax>624</xmax>
+			<ymin>85</ymin>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>
